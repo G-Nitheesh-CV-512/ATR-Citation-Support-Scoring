@@ -1,0 +1,7 @@
+# Proposed portable spec, NOT an actual Conda export. Do not update polegeo.
+name: citation_eval
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - matplotlib==3.10.8

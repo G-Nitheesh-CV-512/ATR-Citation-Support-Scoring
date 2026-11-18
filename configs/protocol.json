@@ -1,0 +1,21 @@
+{
+  "version": "adaptation-v1-before-scoring",
+  "status": "authorized separately named adaptation; not original B0 reproduction",
+  "systems": ["bing_chat", "neeva", "perplexity", "you"],
+  "primary": "unique_raw_bijective_macro",
+  "unit": "citation-statement association with an explicitly verified unique occurrence",
+  "denominator": "number of bijectively mapped citation occurrences; never asserted to equal original operational N_paper",
+  "zero_citations": "undefined; exclude whole query from common positive-citation cohort",
+  "missing": "exclude affected response for both policies, log reason; do not map null to unsupported",
+  "duplicates_primary": "exclude any repeated response ID and any multiple rows per query/system",
+  "aggregation": "equal query weights per system on all-four-system intersection",
+  "policies": ["C0_conditional", "C1_strict"],
+  "primary_metric": "D_ab = (P_a1-P_b1)-(P_a0-P_b0); all six oriented pairs",
+  "ties": "exact rational equality; no practical-effect threshold",
+  "uncertainty": "descriptive finite archive; no p values or confidence intervals",
+  "seed": null,
+  "sensitivity": ["collapse structurally identical records; exclude conflicting records", "equal average over structurally distinct records per response; not inferred annotator average", "pooled citation aggregation on unchanged primary cohort"],
+  "prohibited": ["faithful published B0 claim", "current product ranking", "novelty claim", "new generations"],
+  "authorization": "2026-11-15 user end-to-end instruction explicitly allows a documented operational adaptation when faithful B0 cannot be recovered",
+  "results_viewed_at_freeze": false
+}

@@ -1,0 +1,13 @@
+measure,value
+rows,5528
+citation_objects,15828
+mapping_entries,15169
+count_mismatch_rows,335
+zero_citation_rows,892
+null_collective,9075
+distinct_response_ids,5457
+queries,1450
+repeated_id_groups,69
+excess_identical_records,47
+conflicting_repeated_groups,24
+null_with_mapped_citations,0

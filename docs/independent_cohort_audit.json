@@ -1,0 +1,28 @@
+{
+  "status": "PASS",
+  "variants": {
+    "primary": {
+      "queries": 353,
+      "records": 1412,
+      "occurrence_links": 4382,
+      "duplicate_policy_verified": true,
+      "equal_query_weights_verified": true
+    },
+    "collapse_identical": {
+      "queries": 363,
+      "records": 1452,
+      "occurrence_links": 4513,
+      "duplicate_policy_verified": true,
+      "equal_query_weights_verified": true
+    },
+    "distinct_record_mean": {
+      "queries": 369,
+      "records": 1482,
+      "occurrence_links": 4585,
+      "duplicate_policy_verified": true,
+      "equal_query_weights_verified": true
+    }
+  },
+  "identity_sha256": "51c66d4dcec9b6bc035d9a08e51d4a7b750615b6fc469be1d666e5d5693ebb05",
+  "micro_pairs_verified": 6
+}

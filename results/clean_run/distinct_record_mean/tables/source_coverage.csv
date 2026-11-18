@@ -1,0 +1,13 @@
+source,raw_rows,retained_queries
+allsouls,547,13
+davinci_debate,579,23
+eli5_kilt,576,24
+eli5_live,545,10
+nq_list_with_short_answer,383,31
+nq_list_without_short_answer,389,30
+nq_no_long_answer,368,29
+nq_paragraph_with_short_answer,388,45
+nq_paragraph_without_short_answer,392,41
+nq_table_with_short_answer,390,37
+nq_table_without_short_answer,397,40
+wikihow_keywords,574,46

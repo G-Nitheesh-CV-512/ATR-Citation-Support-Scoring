@@ -1,0 +1,4 @@
+# Core scoring, validation, audits and tests use only Python's standard library.
+# Direct plotting dependency actually used in the assistant workspace:
+matplotlib==3.10.8
+# Installation in the user's WSL Python 3.11.18 remains TEST REQUIRED.

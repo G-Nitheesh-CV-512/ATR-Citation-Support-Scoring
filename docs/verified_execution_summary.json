@@ -1,0 +1,17 @@
+{
+  "archive_csv_matches": 28,
+  "archive_csv_differences": 0,
+  "colab_manifest_code_hash_matches": 20,
+  "config_hash_match": true,
+  "colab_commands_all_exit_zero": true,
+  "colab_tests": 18,
+  "review_workspace_tests": 18,
+  "review_workspace_test_exit_code": 0,
+  "colab_python": "3.13.18 (main, Oct 26 2026, 15:28:15) [GCC 13.3.0]",
+  "colab_elapsed_seconds_excludes_plotting": 12.76431130200001,
+  "colab_max_child_rss_kib": 108288,
+  "original_executed_notebook": "NOT SUPPLIED",
+  "assignment_source": "Supplied screenshots, sections 7\u201312; complete assignment PDF not supplied",
+  "B0": "NOT REPRODUCED; adapted C0/C1",
+  "new_experiment_executed_for_review": false
+}

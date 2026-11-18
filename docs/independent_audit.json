@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "response_record_checks": 4346,
+  "variants": 3,
+  "method": "separate raw-label arithmetic; no scorer imports",
+  "scope": "implementation arithmetic, not independent human annotation or published B0 fidelity"
+}
