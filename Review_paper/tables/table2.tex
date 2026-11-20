@@ -1,0 +1,7 @@
+\begin{table}[htbp]\caption{Representative methods of prevention, detection and auditing.}\centering\footnotesize\setlength{\tabcolsep}{2pt}\begin{tabular}{@{}p{.36\linewidth}p{.61\linewidth}@{}}\toprule
+\multicolumn{2}{p{.96\linewidth}}{Target Strength and residual limitation are addressed by approaching them.Strength of primary target and residual limitation can be approached.} \\ \midrule
+RAG \cite{ref14,ref19} & Even though the tape is retrieved, its content is not returned to the RAG.The RAG remains “offline” when the tape is retrieved. evidence Practical and effective – but perhaps poor retrieval or unsupported However, even with synthesis, it always gives false citations. \\
+- Self-RAG \cite{ref1} & Retrieval + self-critique; relies on learned reflection quality \\
+SelfCheckGPT \cite{ref15} & Sampling-inconsistency Black-box and zero-resource; consistent errors can still appear reliable \\
+Sentence entropy: & More robust than surface agreement; requires multiple semantic interpretations \cite{ref7} Gedanken-years of research have gone into developing this measure. generations Avoids the indirect testing of attribution required by SourceCheckup \cite{ref23} (Claim–source support); domain calibration and Despite automated judging, some geographical restrictions still exist. \\
+ALCE / LegalCiteBench \cite{ref5,ref8} & Citation of sources and reli- ability Applying a reusable approach to evaluation consisting of citations and/or scores; distributions remain task-specific \\\bottomrule\end{tabular}\end{table}
